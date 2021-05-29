@@ -1,0 +1,241 @@
+[{
+	"question": "What year was the first Iron Man movie was released?",
+	"options": [
+		"A. 2005", 
+		"B. 2008", 
+		"C. 2010", 
+		"D. 2012"],
+	"answer": "B. 2008"
+},
+{
+	"question": "What is the name of the thor's hammer?",
+	"options": [
+		"A. Vanir", 
+		"B. Mjolnir",
+		"C. Aesir", 
+		"D. Norn"],
+	"answer": "B. Mjolnir"
+},
+{
+	"question": "What is Captain America's sheild made of?",
+	"options": [
+		"A. Adamantanium", 
+		"B. Vibranium", 
+		"C. Promethium", 
+		"D. Carbodanium"],
+	"answer": "B. Vibranium"
+},
+{
+	"question": "Where is Superman's home?",
+	"options": [
+		"A. Galactus", 
+		"B. Gotham", 
+		"C. Metropolis", 
+		"D. Krypton"],
+	"answer": "D. Krypton"
+},
+{
+	"question": "What is the Superman's true name?",
+	"options": [
+		"A. Bruce Wayne", 
+		"B. Clark Kent", 
+		"C. Kal-El", 
+		"D. Lex luthor"],
+	"answer": "C. Kal-El"
+},
+{
+	"question": "What is the true name of the Batgirl?",
+	"options": ["A. Barbara Gordon", 
+		"B. Lois Lane", 
+		"C. Barry Hardy", 
+		"D. Haevey Dent"],
+	"answer": "A. Barbara Gordon"
+},
+{
+	"question": "In Marvel, How many infinity stones are there?",
+	"options": [
+		"A. 9", 
+		"B. 6", 
+		"C. 7", 
+		"D. 5"],
+	"answer": "B. 6"
+},
+{
+	"question": "Who managed to punch superman into a space coma?",
+	"options": [
+		"A. Booster Gold", 
+		"B. Doomsday", 
+		"C. Lex Luthor", 
+		"D. Darkseid"],
+	"answer": "B. Doomsday"
+},
+{
+	"question": "What is the real name of the Black Panther?",
+	"options": [
+		"A. T'Challa", 
+		"B. M'Baku", 
+		"C. N'Jadaka", 
+		"D. N'Jobu"],
+	"answer": "A. T'Challa"
+},
+{
+	"question": "Who played Christopher Nolan's Joker?",
+	"options": [
+		"A. Jared Leto", 
+		"B. Jck Nicholson", 
+		"C. Caesar Romeo", 
+		"D. Heath Ledger"],
+	"answer": "D. Heath Ledger"
+},
+{
+	"question": "WHo was the last Holder of the Space Stone before Thanos claims it for his infinity gauntlet?",
+	"options": [
+		"A. Thor", 
+		"B. Loki", 
+		"C. The collector", 
+		"D. Tony stark"],
+	"answer": "B. Loki"
+},
+{
+	"question": "Who does the Mad Titan sacrifice to the acquire the Soul Stone?",
+	"options": [
+		"A. Ebony Maw", 
+		"B. Gamora", 
+		"C. Nebula", 
+		"D. Cull Obsidian"],
+	"answer": "B. Gamora"
+},
+{
+	"question": "What is the true identity of the Green Latern we know best?",
+	"options": [
+            "A. Hal Jordon", 
+		"B. Barry Allen", 
+		"C. Kal-El", 
+		"D. Joe-El"],
+	"answer": "A. Hal Jordon"
+},
+{
+	"question": "What is the Superman logo a Kryptonian symbol for?",
+	"options": [
+            "A. Power", 
+		"B. Aliens", 
+		"C. Hope", 
+		"D. Beauty"],
+	"answer": "C. Hope"
+},
+{
+	"question": "Who is killed by Loki in Avengers?",
+	"options": ["A. Maria Hill",
+		"B. Agent Coulson",
+		"C. Nick Fury",
+		"D. Doctor Erik Selvig"],
+	"answer": "B. Agent Coulson"
+},
+{
+	"question": "In DC, Which superhero has supertools such as Magic lasso and bullet proof bracelets",
+	"options": ["A. Cat woman",
+		"B. Wonder Woman",
+		"C. Grren Latern",
+		"D. Super Girl"],
+	"answer": "B. Wonder Woman"
+},
+{
+	"question": "Sharon Carter is whose great-niece?",
+	"options": ["A. Captain America",
+		"B. Peggy Carter",
+		"C. Nick Fury",
+		"D. Tony Stark"],
+	"answer": "B. Peggy Carter"
+},
+{
+	"question": "Who was responsible for Kinf T'Chaka's death?",
+	"options": ["A. Loki",
+		"B. Winetr Soldier",
+		"C. Zemo",
+		"D. Captain America"],
+	"answer": "C. Zemo"
+},
+{
+	"question": "Who was the first female superhero of the Juctice Society of America?",
+	"options": [
+            "A. Storm",
+		"B. Wonder Woman",
+		"C. Elecktra",
+		"D. Cat Woman"],
+	"answer": "B. Wonder Woman"
+},
+{
+	"question": "Barbara Gordon, the father of Batgirl, is the ___________ of the Gotham City?",
+	"options": ["A. Mayor",
+		"B. Governer",
+		"C. Normal Man",
+		"D. The police cheif"],
+	"answer": "D. The police cheif"
+},
+{
+	"question": "The Green Latern gains his power from the which object?",
+	"options": ["A. Glasses",
+		"B. Necklace",
+		"C. Ring",
+		"D. Suite"],
+	"answer": "C. Ring"
+},
+{
+	"question": "Who was the winter soldier?",
+	"options": ["A. Bucky",
+		"B. Luke",
+		"C. Steve Rodger",
+		"D. Tony Stark"],
+	"answer": "A. Bucky"
+},
+{
+	"question": "Thor's Mjolnir is made from the metal of dying _________?",
+	"options": ["A. Celestial",
+		"B. Sun",
+		"C. Star",
+		"D. Lightning"],
+	"answer": "C. Star"
+},
+{
+	"question": "Wonder Woman come from which island?",
+	"options": ["A. The sun island",
+		"B. The eden isle",
+		"C. The emerald island",
+		"D. The paradise island"],
+	"answer": "D. The paradise island"
+},
+{
+	"question": "Which newspaper does Spidermn-Peter Parker- work for?",
+	"options": [
+            "A. The daily bugle",
+		"B. The daily planet",
+		"C. The daily gothamite",
+		"D. The daily news"],
+	"answer": "A. The daily bugle"
+},
+{
+	"question": "Ehat are the claws of the wolverine made of?",
+	"options": [
+            "A. Adamantium",
+		"B. Titanium",
+		"C. Vibranuim",
+		"D. Cadmium"],
+	"answer": "A. Adamantium"
+},
+{
+	"question": "With the special memory fibre in his cape,Batman is able to.......?",
+	"options": ["A. Communicate with Batmobile",
+		"B. Slowly fall",
+		"C. Disappear",
+		"D. Voice change"],
+	"answer": "B. Slowly fall"
+},
+{
+	"question": "Pepper Potts is allergic to what?" ,
+	"options": [
+            "A. Apple",
+		"B. Strawberries",
+		"C. Mango",
+		"D. Banana"],
+	"answer": "B. Strawberries"
+}]

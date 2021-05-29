@@ -1,0 +1,233 @@
+[
+      {
+           "question": "What is the maximum possible length of the identifier?",
+           "options":
+           [
+                 "A. 31 characters",
+                 "B. 63 characters",
+                 "C. 79 characters",
+                 "D. None of the above"
+           ],
+           "answer": "D. None of the above"
+      },
+      {
+            "question": "Which of the following is invalid?",
+            "options":
+            [
+                  "A. _a = 1",
+                  "B. __a = 1",
+                  "C. _str_ = 1",
+                  "D. None of the above"
+            ],
+            "answer": "D. None of the above"
+      },
+      {
+            "question": "Which of the following is not a keyword?",
+            "options":
+            [
+                  "A. eval",
+                  "B. assert",
+                  "C. nonlocal",
+                  "D. pass"
+            ],
+            "answer": "A. eval"
+      },
+      {
+            "question": "Which of the following is an invalid statement?",
+            "options":
+            [
+                  "A. abc = 1000000",
+                  "B. a b c = 1000 2000 3000",
+                  "C. a,b,c = 1000,2000,3000",
+                  "D. a_b_c = 1000000"
+            ],
+            "answer": "B. a b c = 1000 2000 3000"
+      },
+      {
+            "question": "Which of the following cannot be a variable?",
+            "options":
+            [
+                  "A. _init_",
+                  "B. in",
+                  "C. it",
+                  "D. on"
+            ],
+            "answer": "B. in"
+      },
+      {
+            "question": "Which is the correct operator for power(x) of y?",
+            "options":
+            [
+                  "A. x ^ y",
+                  "B. x ** y",
+                  "C. x ^^ y",
+                  "D. None of the above"
+            ],
+            "answer": "B. x ** y"
+      },
+      {
+            "question": "Which one of these is a floor division?",
+            "options":
+            [
+                  "A. /",
+                  "B. //",
+                  "C. %",
+                  "D. None of the above"
+            ],
+            "answer": "B. //"
+      },
+      {
+            "question": "What is the answer of the expresion, 22 % 3 is?",
+            "options":
+            [
+                  "A. 5",
+                  "B. 0",
+                  "C. 7",
+                  "D. 1"
+            ],
+            "answer": "D. 1"
+      },
+      {
+            "question": "Operator with the same precedence are evaluated in which manner?",
+            "options":
+            [
+                  "A. Left to Right",
+                  "B. None of the mentioned",
+                  "C. Can't say",
+                  "D. Right to Left"
+            ],
+            "answer": "A. Left to Right"
+      },
+      {
+            "question": "What is the output of the expresion, 3*1**3?",
+            "options":
+            [
+                  "A. 27",
+                  "B. 6",
+                  "C. 3",
+                  "D. 1"
+            ],
+            "answer": "C. 3"
+      },
+      {
+            "question": "Which of the following has highest precedence in the expresion?",
+            "options":
+            [
+                  "A. Parantheses",
+                  "B. Addtion",
+                  "C. Exponential",
+                  "D. Multiplication"
+            ],
+            "answer": "A. Parantheses"
+      },
+      {
+            "question": "Which of these is not a core data type?",
+            "options":
+            [
+                  "A. Dictionary",
+                  "B. Lists",
+                  "C. Class",
+                  "D. Tuples"
+            ],
+            "answer": "C. Class"
+      },
+      {
+            "question": "Given a function that does not return any value, what value is thrown by default when executed in shell?",
+            "options":
+            [
+                  "A. Int",
+                  "B. bool",
+                  "C. void",
+                  "D. None"
+            ],
+            "answer": "D. None"
+      },
+      {
+            "question": "Which of the following will run without errors?",
+            "options":
+            [
+                  "A. round(45.8)",
+                  "B. round(6352.898,2.5)",
+                  "C. round()",
+                  "D. round(7465.33,2,1)"
+            ],
+            "answer": "A. round(45.8)"
+      },
+      {
+            "question": "In order to store values in terms of keys and value we use what core data type?",
+            "options":
+            [
+                  "A. list",
+                  "B. dictionary",
+                  "C. tuple",
+                  "D. class"
+            ],
+            "answer": "B. dictionary"
+      },
+      {
+            "question": "What is the output of the print 0.1 + 0.2 == 0.3?",
+            "options":
+            [
+                  "A. True",
+                  "B. False",
+                  "C. Machine Dependent",
+                  "D. Error"
+            ],
+            "answer": "B. False"
+      },
+      {
+            "question": "Which of the following is not a complex number?",
+            "options":
+            [
+                  "A. K = 2 + 3j",
+                  "B. K = complex(2.3)",
+                  "C. K = 2 + 3i",
+                  "D. K = 2 + 3J"
+            ],
+            "answer": "C. K = 2 + 3i"
+      },
+      {
+            "question": "What is type of inf?",
+            "options":
+            [
+                  "A. boolean",
+                  "B. integer",
+                  "C. float",
+                  "D. complex"
+            ],
+            "answer": "C. float"
+      },
+      {
+            "question": "What does ~4 evaluate to?",
+            "options":
+            [
+                  "A. -5",
+                  "B. -4",
+                  "C. -3",
+                  "D. +3"
+            ],
+            "answer": "A. -5"
+      },
+      {
+            "question": "What is the result of round(0.5) - round(-0.5)?",
+            "options":
+            [
+                  "A. 1.0",
+                  "B. 2.0",
+                  "C. 0.0",
+                  "D. Value depend upon python version"
+            ],
+            "answer": "D. Value depend upon python version"
+      },
+      {
+            "question": "What does 3 ^ 4 evaluate to?",
+            "options":
+            [
+                  "A. 81",
+                  "B. 12",
+                  "C. 0.75",
+                  "D. 7"
+            ],
+            "answer": "D. 7"
+      }
+]
